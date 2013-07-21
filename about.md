@@ -5,6 +5,6 @@ layout: page
 
 follow 
 
-> [@o_lll](https://twitter.com/#!/o_lll)
+> [@theata](https://twitter.com/#!/o_lll)
 
 to reach me
