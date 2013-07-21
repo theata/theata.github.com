@@ -3,8 +3,7 @@ title: about
 layout: page
 ---
 
-follow 
-
-> [@theata](https://twitter.com/#!/o_lll)
+folow
+douban：www.douban.com/yyt5116
 
 to reach me
